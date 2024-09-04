@@ -1,9 +1,9 @@
 # Exercise-01c-Inky-Variables
 
-My name is:
+My name is: Tommy McCullough
 
-[Your Name]
 
-My github username is:
 
-[Your Username]
+My github username is: tommymcc21
+
+
